@@ -1,0 +1,43 @@
+{
+  "slug": "huddersfield-station",
+  "name": "Huddersfield Railway Station",
+  "summary": "Impressive classical fa\u00e7ade and a gateway to the town.",
+  "description": "Opened in 1850, the grand porticoed station is famed for its classical design and friendly resident station cats.",
+  "highlights": [
+    "Classical frontage",
+    "Station piazza"
+  ],
+  "practical": {
+    "address": "St George's Square, Huddersfield HD1 1JB",
+    "geo": {
+      "lat": 53.649,
+      "lng": -1.783
+    },
+    "getting_there": [
+      "Rail hub",
+      "Town buses"
+    ],
+    "opening_hours": "Rail station hours",
+    "prices": "Free to admire",
+    "accessibility": [
+      "Lifts",
+      "Step-free access to platforms"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Huddersfield Station",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Victorian",
+    "Huddersfield",
+    "Rail"
+  ],
+  "nearby": [
+    "castle-hill-huddersfield"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "harewood-house",
+  "name": "Harewood House",
+  "summary": "18th\u2011century stately home set in Capability Brown landscapes.",
+  "description": "Built for the Lascelles family in the 1700s, Harewood blends art collections with expansive grounds and a bird garden.",
+  "highlights": [
+    "State rooms",
+    "Terrace",
+    "Lakeside walks"
+  ],
+  "practical": {
+    "address": "Harewood, Leeds LS17 9LG",
+    "geo": {
+      "lat": 53.897,
+      "lng": -1.538
+    },
+    "getting_there": [
+      "Bus from Leeds/Harrogate",
+      "Parking onsite"
+    ],
+    "opening_hours": "Seasonal opening",
+    "prices": "Admission applies",
+    "accessibility": [
+      "Accessible routes",
+      "Wheelchair access in most areas"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Harewood House",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "House",
+    "Leeds",
+    "Georgian"
+  ],
+  "nearby": [
+    "kirkstall-abbey"
+  ]
+}

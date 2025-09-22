@@ -1,0 +1,46 @@
+{
+  "slug": "kirkstall-abbey",
+  "name": "Kirkstall Abbey",
+  "summary": "Ruins of a Cistercian monastery beside the River Aire in Leeds.",
+  "description": "Founded in 1152, the abbey grew into a major Cistercian house before dissolution in 1539. Its soaring nave, cloister and chapter house remain remarkably intact, offering a powerful glimpse of medieval monastic life.",
+  "highlights": [
+    "Cloister arches",
+    "Nave pillars",
+    "Abbey House Museum across the road"
+  ],
+  "practical": {
+    "address": "Kirkstall, Leeds LS5 3EH",
+    "geo": {
+      "lat": 53.8206,
+      "lng": -1.606
+    },
+    "getting_there": [
+      "Bus routes from Leeds city centre",
+      "Cycle path along the Aire"
+    ],
+    "opening_hours": "Tue\u2013Sun 10:00\u201316:00; seasonal variations",
+    "prices": "Free; donations welcome",
+    "accessibility": [
+      "Step-free paths",
+      "Accessible toilets"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Kirkstall Abbey",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Abbey",
+    "Medieval",
+    "Leeds",
+    "Free"
+  ],
+  "nearby": [
+    "abbey-house-museum",
+    "royal-armouries"
+  ]
+}

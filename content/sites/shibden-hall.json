@@ -1,0 +1,44 @@
+{
+  "slug": "shibden-hall",
+  "name": "Shibden Hall",
+  "summary": "Historic hall linked to diarist Anne Lister.",
+  "description": "Dating to the 15th century, the timber\u2011framed hall tells the story of Halifax and the remarkable life of Anne Lister.",
+  "highlights": [
+    "Period rooms",
+    "Gardens",
+    "Lake"
+  ],
+  "practical": {
+    "address": "Lister's Rd, Halifax HX3 6XG",
+    "geo": {
+      "lat": 53.728,
+      "lng": -1.834
+    },
+    "getting_there": [
+      "Buses from Halifax",
+      "On-site parking"
+    ],
+    "opening_hours": "Seasonal; check site",
+    "prices": "Admission applies",
+    "accessibility": [
+      "Ground-floor access",
+      "Assistance dogs welcome"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Shibden Hall",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "House",
+    "Halifax",
+    "Victorian"
+  ],
+  "nearby": [
+    "piece-hall"
+  ]
+}

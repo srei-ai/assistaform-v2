@@ -1,0 +1,44 @@
+{
+  "slug": "temple-newsam",
+  "name": "Temple Newsam",
+  "summary": "Tudor-Jacobean mansion with gardens and rare breed farm.",
+  "description": "A grand country house with layers of history and fine collections. The surrounding estate offers woodland and lakeside walks.",
+  "highlights": [
+    "State rooms",
+    "Walled garden",
+    "Rare breeds"
+  ],
+  "practical": {
+    "address": "Temple Newsam Rd, Leeds LS15 0AE",
+    "geo": {
+      "lat": 53.785,
+      "lng": -1.461
+    },
+    "getting_there": [
+      "Bus from Leeds",
+      "On-site parking"
+    ],
+    "opening_hours": "Varies seasonally",
+    "prices": "House admission applies; grounds free",
+    "accessibility": [
+      "Step-free routes",
+      "Lifts in parts of the house"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Temple Newsam",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "House",
+    "Leeds",
+    "Gardens"
+  ],
+  "nearby": [
+    "leeds-city-museum"
+  ]
+}

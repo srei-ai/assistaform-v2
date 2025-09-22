@@ -1,0 +1,44 @@
+{
+  "slug": "royal-armouries",
+  "name": "Royal Armouries Museum",
+  "summary": "National collection of arms and armour at Leeds Dock.",
+  "description": "Opened in 1996, the museum presents arms and armour from across the world, with live demonstrations and thematic galleries.",
+  "highlights": [
+    "Tournament Gallery",
+    "War Gallery",
+    "Live shows"
+  ],
+  "practical": {
+    "address": "Armouries Dr, Leeds LS10 1LT",
+    "geo": {
+      "lat": 53.7903,
+      "lng": -1.5323
+    },
+    "getting_there": [
+      "Walk from city centre",
+      "Leeds Dock water taxi"
+    ],
+    "opening_hours": "Daily; check times",
+    "prices": "Free entry; charges for some events",
+    "accessibility": [
+      "Step-free access",
+      "Accessible lifts"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Royal Armouries",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Museum",
+    "Leeds",
+    "Modern"
+  ],
+  "nearby": [
+    "leeds-industrial-museum"
+  ]
+}

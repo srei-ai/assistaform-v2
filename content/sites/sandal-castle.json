@@ -1,0 +1,42 @@
+{
+  "slug": "sandal-castle",
+  "name": "Sandal Castle",
+  "summary": "Ruins of a medieval castle overlooking the River Calder.",
+  "description": "Once a formidable stronghold, Sandal was embroiled in the Wars of the Roses; today its earthworks and views are the draw.",
+  "highlights": [
+    "Keep mound",
+    "Views over Calder Valley"
+  ],
+  "practical": {
+    "address": "Manygates Ln, Wakefield WF2 7DS",
+    "geo": {
+      "lat": 53.659,
+      "lng": -1.492
+    },
+    "getting_there": [
+      "Bus from Wakefield",
+      "Car park nearby"
+    ],
+    "opening_hours": "Daily; daylight hours",
+    "prices": "Free",
+    "accessibility": [
+      "Uneven ground"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Sandal Castle",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Castle",
+    "Wakefield",
+    "Medieval"
+  ],
+  "nearby": [
+    "wakefield-cathedral"
+  ]
+}

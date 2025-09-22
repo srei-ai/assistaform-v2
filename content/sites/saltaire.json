@@ -1,0 +1,45 @@
+{
+  "slug": "saltaire",
+  "name": "Saltaire",
+  "summary": "UNESCO model Victorian village built by Sir Titus Salt.",
+  "description": "Founded in the 1850s around a vast textile mill, Saltaire married industry with planned housing and civic buildings.",
+  "highlights": [
+    "Salts Mill",
+    "Victoria Hall",
+    "Riverside walks"
+  ],
+  "practical": {
+    "address": "Saltaire, Shipley BD18",
+    "geo": {
+      "lat": 53.838,
+      "lng": -1.79
+    },
+    "getting_there": [
+      "Train to Saltaire",
+      "Buses via Shipley"
+    ],
+    "opening_hours": "Village is open access; venues vary",
+    "prices": "Mostly free; exhibitions vary",
+    "accessibility": [
+      "Pavement routes",
+      "Step-free rail station"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Saltaire",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Victorian",
+    "Bradford",
+    "UNESCO"
+  ],
+  "nearby": [
+    "bradford-industrial-museum",
+    "piece-hall"
+  ]
+}

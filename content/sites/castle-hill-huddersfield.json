@@ -1,0 +1,43 @@
+{
+  "slug": "castle-hill-huddersfield",
+  "name": "Castle Hill (Huddersfield)",
+  "summary": "Prominent hilltop with Victoria Tower and ancient earthworks.",
+  "description": "A landmark above Huddersfield with views across the Pennines; archaeology shows use from the Bronze Age onwards.",
+  "highlights": [
+    "Panoramic views",
+    "Victoria Tower"
+  ],
+  "practical": {
+    "address": "Castle Hill, Huddersfield HD4 6TA",
+    "geo": {
+      "lat": 53.61,
+      "lng": -1.762
+    },
+    "getting_there": [
+      "Buses + short walk",
+      "Parking near summit"
+    ],
+    "opening_hours": "Open access hill; tower seasonal",
+    "prices": "Free; tower may charge",
+    "accessibility": [
+      "Steep approaches",
+      "Uneven ground"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Castle Hill",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Landscape",
+    "Huddersfield",
+    "Ancient"
+  ],
+  "nearby": [
+    "huddersfield-station"
+  ]
+}

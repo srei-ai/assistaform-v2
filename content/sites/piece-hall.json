@@ -1,0 +1,44 @@
+{
+  "slug": "piece-hall",
+  "name": "The Piece Hall",
+  "summary": "Magnificent 18th\u2011century cloth hall in Halifax.",
+  "description": "Opened in 1779 as a trading place for handwoven woollen cloth, the vast courtyard is now a cultural hub with events.",
+  "highlights": [
+    "Arcaded courtyard",
+    "Galleries",
+    "Events"
+  ],
+  "practical": {
+    "address": "Blackledge, Halifax HX1 1RE",
+    "geo": {
+      "lat": 53.721,
+      "lng": -1.857
+    },
+    "getting_there": [
+      "Halifax rail station",
+      "Town centre buses"
+    ],
+    "opening_hours": "Daily; businesses vary",
+    "prices": "Free to enter",
+    "accessibility": [
+      "Step-free access",
+      "Accessible facilities"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Piece Hall",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Georgian",
+    "Halifax",
+    "Market"
+  ],
+  "nearby": [
+    "shibden-hall"
+  ]
+}

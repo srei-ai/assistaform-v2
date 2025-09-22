@@ -1,0 +1,43 @@
+{
+  "slug": "wakefield-cathedral",
+  "name": "Wakefield Cathedral",
+  "summary": "Elegant Gothic revival cathedral with soaring spire.",
+  "description": "A parish church elevated to cathedral status in 1888, known for fine woodwork and a bright, open interior.",
+  "highlights": [
+    "Stained glass",
+    "Tower (tours)"
+  ],
+  "practical": {
+    "address": "Northgate, Wakefield WF1 1HG",
+    "geo": {
+      "lat": 53.683,
+      "lng": -1.498
+    },
+    "getting_there": [
+      "Walk from stations",
+      "Town buses"
+    ],
+    "opening_hours": "Daily; services and events",
+    "prices": "Free; donations welcome",
+    "accessibility": [
+      "Level access",
+      "Hearing loop"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Wakefield Cathedral",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Church",
+    "Wakefield",
+    "Victorian"
+  ],
+  "nearby": [
+    "sandal-castle"
+  ]
+}

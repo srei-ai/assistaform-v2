@@ -1,0 +1,43 @@
+{
+  "slug": "bradford-industrial-museum",
+  "name": "Bradford Industrial Museum",
+  "summary": "Textile machinery, printing and transport in former mill buildings.",
+  "description": "A free museum celebrating Bradford\u2019s industrial heritage with working looms and engines.",
+  "highlights": [
+    "Working looms",
+    "Transport gallery"
+  ],
+  "practical": {
+    "address": "Moorside Rd, Bradford BD2 3HP",
+    "geo": {
+      "lat": 53.813,
+      "lng": -1.737
+    },
+    "getting_there": [
+      "Buses from city centre",
+      "Parking on site"
+    ],
+    "opening_hours": "Wed\u2013Sun",
+    "prices": "Free",
+    "accessibility": [
+      "Step-free routes",
+      "Accessible toilets"
+    ]
+  },
+  "images": [
+    {
+      "src": "/placeholder.svg",
+      "alt": "Bradford Industrial Museum",
+      "credit_text": "Placeholder",
+      "credit_url": "#"
+    }
+  ],
+  "tags": [
+    "Museum",
+    "Bradford",
+    "Industrial"
+  ],
+  "nearby": [
+    "saltaire"
+  ]
+}
