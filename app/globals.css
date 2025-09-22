@@ -1,3 +1,5 @@
+/* --- keep your palette + base rules above this line --- */
+
 @layer components {
   .container-narrow{ @apply max-w-6xl mx-auto px-4 }
   .container-wide{ @apply max-w-7xl mx-auto px-4 }
@@ -15,7 +17,7 @@
   .lead{ @apply text-lg text-neutral-700 }
 }
 
-/* hover/focus states must be in selectors, not inside @apply with `hover:` */
+/* Variants must be real selectors, not `hover:` inside @apply */
 .btn:hover{ @apply shadow-lift -translate-y-0.5 }
 .btn-secondary:hover{ @apply bg-brand/5 }
 .btn-accent:hover{ @apply opacity-90 }
