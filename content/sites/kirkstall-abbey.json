@@ -26,12 +26,12 @@
     ]
   },
   "images": [
-    {
-      "src": "/placeholder.svg",
-      "alt": "Kirkstall Abbey",
-      "credit_text": "Placeholder",
-      "credit_url": "#"
-    }
+{
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kirkstall_Abbey%2C_Abbey_Road%2C_Leeds_-_geograph.org.uk_-_4928036.jpg",
+  "alt": "Kirkstall Abbey ruins seen across the parkland in Leeds",
+  "credit_text": "Photo: Mark Stevenson (Geograph) / CC BY-SA 2.0 via Wikimedia Commons",
+  "credit_url": "https://commons.wikimedia.org/wiki/File:Kirkstall_Abbey,_Abbey_Road,_Leeds_-_geograph.org.uk_-_4928036.jpg"
+}
   ],
   "tags": [
     "Abbey",
