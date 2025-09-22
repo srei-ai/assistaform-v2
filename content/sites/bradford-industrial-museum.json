@@ -25,12 +25,12 @@
     ]
   },
   "images": [
-    {
-      "src": "/placeholder.svg",
-      "alt": "Bradford Industrial Museum",
-      "credit_text": "Placeholder",
-      "credit_url": "#"
-    }
+  {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bradford_Industrial_Museum_065.jpg",
+  "alt": "Spinning and textile machinery inside Bradford Industrial Museum",
+  "credit_text": "Photo: Linda Spashett (Storye_book) / CC BY 3.0 via Wikimedia Commons",
+  "credit_url": "https://commons.wikimedia.org/wiki/File:Bradford_Industrial_Museum_065.jpg"
+  }
   ],
   "tags": [
     "Museum",
