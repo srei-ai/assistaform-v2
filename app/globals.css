@@ -1,5 +1,24 @@
-/* --- keep your palette + base rules above this line --- */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+/* ===== Palette & base ===== */
+:root{
+  --bg:#FAF7F2;       /* ivory */
+  --ink:#111827;      /* near-black */
+  --brand:#20322C;    /* deep green */
+  --accent:#C7A257;   /* soft gold */
+}
+
+html,body{height:100%}
+body{@apply bg-bg text-ink font-body antialiased}
+a{@apply transition}
+
+/* Optional: make headings use the display font set in layout.tsx via next/font */
+h1,h2,h3,.font-display{font-family:var(--font-display)}
+.divider{@apply h-px bg-neutral-200 my-10}
+
+/* ===== Components (use @layer so Tailwind keeps them) ===== */
 @layer components {
   .container-narrow{ @apply max-w-6xl mx-auto px-4 }
   .container-wide{ @apply max-w-7xl mx-auto px-4 }
@@ -17,7 +36,10 @@
   .lead{ @apply text-lg text-neutral-700 }
 }
 
-/* Variants must be real selectors, not `hover:` inside @apply */
+/* ===== Variants: put hover/focus states in real selectors (not inside @apply with hover:) ===== */
 .btn:hover{ @apply shadow-lift -translate-y-0.5 }
 .btn-secondary:hover{ @apply bg-brand/5 }
 .btn-accent:hover{ @apply opacity-90 }
+.btn:focus-visible,
+.btn-secondary:focus-visible,
+.btn-accent:focus-visible{ @apply outline-none ring-2 ring-accent/50 }
