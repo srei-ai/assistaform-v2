@@ -26,12 +26,12 @@
     ]
   },
   "images": [
-    {
-      "src": "/placeholder.svg",
-      "alt": "Harewood House",
-      "credit_text": "Placeholder",
-      "credit_url": "#"
-    }
+{
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/Harewood_House%2C_seen_from_the_garden.JPG",
+  "alt": "Harewood House neoclassical façade and terrace gardens",
+  "credit_text": "Photo: Gunnar Larsson / CC BY-SA 3.0 via Wikimedia Commons",
+  "credit_url": "https://commons.wikimedia.org/wiki/File:Harewood_House,_seen_from_the_garden.JPG"
+}
   ],
   "tags": [
     "House",
