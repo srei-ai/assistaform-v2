@@ -2,33 +2,30 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --brand: #3B82F6; /* blue */
-  --accent: #F59E0B; /* amber */
-  --ink: #0f172a; /* slate-900 */
-  --bg: #ffffff;
+/* refined palette */
+:root{
+  --bg:#FAF7F2;       /* ivory */
+  --ink:#111827;      /* near-black */
+  --brand:#20322C;    /* deep green */
+  --accent:#C7A257;   /* soft gold */
 }
+html,body{height:100%}
+body{@apply bg-bg text-ink font-body antialiased}
+a{@apply transition}
 
-html, body {
-  height: 100%;
-}
+.container-narrow{@apply max-w-6xl mx-auto px-4}
+.container-wide{@apply max-w-7xl mx-auto px-4}
 
-body {
-  @apply bg-bg text-ink;
-}
+.card{@apply bg-white rounded-card shadow-soft overflow-hidden border border-neutral-200}
+.btn{@apply inline-flex items-center gap-2 rounded-full px-5 py-2.5 border border-transparent bg-brand text-white hover:shadow-lift hover:-translate-y-0.5 transition}
+.btn-secondary{@apply inline-flex items-center gap-2 rounded-full px-5 py-2.5 border border-brand text-brand bg-transparent hover:bg-brand/5 transition}
+.btn-accent{@apply inline-flex items-center gap-2 rounded-full px-5 py-2.5 border border-transparent bg-accent text-white hover:opacity-90 transition}
 
-.container-narrow {
-  @apply max-w-6xl mx-auto px-4;
-}
+.badge{@apply inline-block rounded-full px-3 py-1 text-xs bg-neutral-100 text-neutral-700 border border-neutral-200}
 
-.card {
-  @apply bg-white rounded-card shadow-soft overflow-hidden border border-gray-100;
-}
+.section{@apply container-wide py-16 md:py-20}
+.section-heading{@apply text-3xl md:text-4xl font-display font-semibold}
+.lead{@apply text-lg text-neutral-700}
 
-.btn {
-  @apply inline-flex items-center gap-2 rounded-full px-4 py-2 border border-transparent bg-brand text-white hover:opacity-90 transition;
-}
-
-.badge {
-  @apply inline-block rounded-full px-3 py-1 text-xs bg-gray-100;
-}
+h1,h2,h3,.font-display{font-family:var(--font-display)}
+.divider{@apply h-px bg-neutral-200 my-10}
